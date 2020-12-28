@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="22_22">
+		<npc id="1003000" x="85397" y="146478" z="-3401" heading="62072" respawnDelay="60" /> <!-- Kadmos -->
+		<npc id="500" x="85396" y="146565" z="-3401" heading="14325" respawnDelay="60" /> <!-- Jurek -->
+		<npc id="900101" x="85530" y="146416" z="-3401" heading="60246" respawnDelay="60" /> <!-- Snowden -->
+		<npc id="50008" x="83111" y="148395" z="-3409" heading="30212" respawnDelay="60" /> <!-- Neonin -->
+		<npc id="50008" x="83111" y="148842" z="-3409" heading="32767" respawnDelay="60" /> <!-- Neonin -->
+	</spawn>
+</list>

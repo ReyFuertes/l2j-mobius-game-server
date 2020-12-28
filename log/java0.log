@@ -1,0 +1,15 @@
+2020.12.28 19:31:49,890	INFO	1	org.l2jmobius.commons.util.IXmlReader	Network Config: ipconfig.xml doesn't exists using automatic configuration...
+2020.12.28 19:31:50,533	INFO	1	org.l2jmobius.commons.util.IXmlReader	Network Config: Adding new subnet: 127.0.0.0/8 address: 127.0.0.1
+2020.12.28 19:31:50,553	INFO	1	org.l2jmobius.commons.util.IXmlReader	Network Config: Adding new subnet: 192.168.0.0/24 address: 192.168.0.11
+2020.12.28 19:31:50,560	INFO	1	org.l2jmobius.commons.util.IXmlReader	Network Config: Adding new subnet: 0.0.0.0/0 address: 182.18.252.158
+2020.12.28 19:31:50,585	INFO	1	org.l2jmobius.Config	Loaded 6 Filter Words.
+2020.12.28 19:31:50,607	INFO	1	org.l2jmobius.gameserver.GameServer	------------------------------------------------=[ Database ]
+2020.12.28 19:31:50,819	INFO	21	org.l2jmobius.gameserver.model.World	World: (256 by 272) World Region Grid set up.
+2020.12.28 19:32:22,702	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Problem on initialize. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 30,000 ms)
+2020.12.28 19:32:22,703	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------=[ ThreadPool ]
+2020.12.28 19:32:22,785	INFO	1	org.l2jmobius.commons.concurrent.ThreadPool	ThreadPool: Initialized
+2020.12.28 19:32:22,785	INFO	1	org.l2jmobius.commons.concurrent.ThreadPool	...scheduled pool executor with 160 total threads.
+2020.12.28 19:32:22,786	INFO	1	org.l2jmobius.commons.concurrent.ThreadPool	...instant pool executor with 120 total threads.
+2020.12.28 19:32:22,786	INFO	1	org.l2jmobius.gameserver.GameServer	-----------------------------------------------=[ IdManager ]
+2020.12.28 19:32:52,792	SEVERE	1	org.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Cound not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 30,000 ms)
+2020.12.28 19:33:22,796	SEVERE	1	org.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Cound not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 30,000 ms)

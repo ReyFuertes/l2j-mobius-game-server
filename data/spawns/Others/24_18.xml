@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="24_18">
+		<npc id="50008" x="147504" y="27408" z="-2203" heading="22881" respawnDelay="60" /> <!-- Neonin -->
+		<npc id="31756" x="147823" y="27394" z="-2205" heading="16668" respawnDelay="60" /> <!-- Mr. Cat -->
+		<npc id="50008" x="147889" y="27275" z="-2205" heading="63700" respawnDelay="60" /> <!-- Neonin -->
+	</spawn>
+</list>
